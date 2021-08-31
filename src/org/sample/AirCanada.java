@@ -9,6 +9,9 @@ public class AirCanada {
 		System.out.println();
 		
 		System.out.println("i");
+		
+		System.out.println("i");
+		System.out.println("j");
 		}
 		}
 		}
